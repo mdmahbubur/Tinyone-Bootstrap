@@ -1,0 +1,190 @@
+@media (min-width: 0px) and (max-width: 320px){
+    
+    .banner_icon{
+        text-align: center;
+    }
+    
+    .banner_text h1 {
+    font-weight: bold;
+    font-size: 29px;
+}
+    .custom_nav ul li a {
+    padding: 20px 8px !important;
+    
+}
+    
+    .common_header h1{
+        font-size: 25px;
+    }
+    
+    .common_header p {
+    font-size: 12px;
+}
+    
+    .footer_header h1 {
+   font-size: 14px;
+    
+    }
+     
+    .footer_header p {
+   
+    font-size: 13px;
+   
+}
+    .footer_header {
+    text-align: center;
+    padding: 22px 30px;
+}
+    
+    .footer_form{
+       padding: 30px 66px;
+}
+    
+    .text_field{
+        width: 70%;
+        float: left;
+    }
+    
+/*
+    .button_footer{
+        width: 30%;
+        float: right;
+         
+    }
+*/
+    
+    .button_footer {
+   
+    font-size: 10px;
+    }
+    
+    .plc {
+    font-size: 10px;
+    padding: 7px 5px;
+}
+    
+/*
+    .s{
+        width: 20%;
+    }
+    
+    .b{
+        width: 20%;
+    }
+    
+    .footer_ft{
+        
+    }
+*/
+    
+    .footer_ft {
+    padding: 50px 20px;
+        font-size: 5px;
+}
+    
+}
+
+
+
+@media (min-width: 321px) and (max-width: 575px){
+   
+    .banner_icon{
+        text-align: center;
+    }
+    
+    .banner_text h1 {
+    font-weight: bold;
+    font-size: 29px;
+        text-align: center;
+    }
+        
+        .custom_nav ul li a {
+    padding: 20px 10px !important;
+    
+}
+
+.footer_ft {
+    color: white;
+    font-size: 8px;
+    font-weight: 400;
+}
+    
+    .footer_header h1 {
+    color: #fcdb00;
+        font-size: 17px;
+    }
+    
+    .plc{
+        font-size: 10px;
+            padding: 10px;
+    }
+    
+    .footer_header p {
+    
+    font-size: 15px;
+    
+}
+    
+    .footer_ft {
+    padding: 51px 57px;
+}
+    
+
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767px){
+   
+    .banner_text h1 {
+    font-weight: bold;
+    font-size: 20px;
+
+}
+    
+    .features_content h6{
+        font-size: 19px ;
+    }
+    
+    .custom_nav ul li a {
+    padding: 20px 10px !important;
+    color: #010101 !important;
+    font-weight: bold;
+    font-size: 22px;
+}
+    
+    .footer_ft {
+    color: white;
+    font-size: 10px;
+    font-weight: 400;
+}
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 991px){ 
+   .features_content h6{
+        font-size: 19px !important;
+    }
+    
+    
+    .features_content h6{
+        font-size: 19px ;
+    }
+    
+    
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px){ 
+     .banner_img{
+           text-align: left;
+               padding-right: 60px;
+}
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+     
+}
